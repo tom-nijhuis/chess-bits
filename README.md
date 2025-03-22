@@ -15,3 +15,6 @@ A recursive backtracking solver for the 8 queen problem with hardware optimisati
 - Goroutines, multithreading
 - Unit-tests
 
+
+Example solution for the 8 queens problem
+![example](8queens.png)
